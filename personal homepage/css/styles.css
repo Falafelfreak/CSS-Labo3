@@ -1,0 +1,65 @@
+body {
+    font-family: "Calibri", sans-serif;
+    width: 1200px;
+    margin: auto;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    background-color: dimgrey;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+}
+
+h2 {
+    background-color: dimgrey;
+    color: white;
+    padding: 5px;
+}
+
+ul {
+    background-color: lightgray;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+dl {
+    background-color: lightgray;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+img {
+    padding-bottom: 10px;
+}
+
+dt {
+   font-weight: bold;
+    padding-left: 5px;
+}
+
+dt > img {
+    padding-top: 10px;
+}
+
+table {
+    border-collapse: collapse;text-align: left;width: 100%;font: normal 12px/150% Arial, Helvetica, sans-serif;background: #fff;overflow: hidden;border: 1px solid #006699;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+table td, table th {
+    padding: 3px 10px;
+}
+
+table thead th{
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#006699', endColorstr='#00557F');background-color:#006699;color:#FFFFFF; font-size: 15px; font-weight: bold; border-left: 1px solid #0070A8;
+}
+
+table thead th:first-child {
+    border: none; }.datagrid table tbody td { color: #00496B; border-left: 1px solid #E1EEF4;font-size: 12px;font-weight: normal;
+}
+

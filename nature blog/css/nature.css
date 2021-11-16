@@ -1,0 +1,44 @@
+section > header {
+    background-image: url("header.jpg");
+    padding-bottom:40px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h1 {
+    margin: 0;
+}
+
+body {
+    font-family: "Trebuchet MS",sans-serif;
+    width: 1200px;
+    margin: auto;
+}
+
+article > header {
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+article {
+    margin: 5px;
+    padding: 20px;
+    background-color:#F0F0F0;
+}
+
+nav > a {
+    color: mediumspringgreen;
+    font-weight: bold;
+}
+
+nav {
+    background-color: #404040;
+    padding: 5px;
+}
+
+section > footer {
+    padding-bottom: 40px;
+}
